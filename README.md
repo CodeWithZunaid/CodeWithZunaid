@@ -65,19 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=zunaidseraj&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Zunaid's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=zunaidseraj&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zunaidseraj&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 💡 Random Dev Quote
 
 <p align="center">
