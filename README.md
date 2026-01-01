@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Zunaid Seraj
 
-## Aspiring AI/ML Engineer & Self-Taught Developer  
+## Aspiring AI/ML Engineer / Data Scientist & Self-Taught Developer  
 **Python | C++ | Open-Source Enthusiast**  
 *Let's build innovative AI solutions together! ✨*
 
@@ -14,9 +14,9 @@
 
 ## 🌟 About Me
 
-- 🔭 **Currently building** C projects and AI/ML prototypes
+- 🔭 **Currently building** Python projects and AI/ML prototypes
 - 🐍 **Mastering** Python, C++ & diving deep into AI/ML
-- 🐛 **Debugging** complex AI/ML challenges
+- 🐛 **Debugging** complex AI/ML challenges (DSA)
 - 👯 **Open to collaborate** on open-source AI, ML, or DSA projects
 - 💬 **Ask me about** AI, ML, Python, C++, DSA, or tech career tips
 - 📫 **Reach out** via DM on Instagram or email
@@ -50,6 +50,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=algorithm&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
